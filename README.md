@@ -1,3 +1,3 @@
-# TelegramChatBotPassManagment
-Selfhosted password manager
 # ChatBotPassManager
+Selfhosted password manager
+
